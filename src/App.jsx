@@ -52,7 +52,7 @@ const App = () => {
 
     return (
     <div className="bubbles_bg">
-      <div className="container">
+      <div className="container px-4">
         <div className="signup min-h-[95vh] grid items-center">
           <div>
             <div className="text-center flex justify-center items-center gap-4 pb-6">
